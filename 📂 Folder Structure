@@ -1,0 +1,13 @@
+SpaceX-Launch-Parser/
+│
+├── README.md
+├── requirements.txt
+├── spacex_launch_scraper.py # Scraping & cleaning script
+├── spacex_launch_visuals.py # Visualization script
+├── SpaceX_Launch_Analysis.ipynb # Interactive notebook
+└── output/
+├── SpaceX_launches_clean.csv
+├── launch_outcomes.png
+├── booster_landings.png
+├── payload_mass_distribution.png
+└── success_rate_over_time.png
