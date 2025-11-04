@@ -11,3 +11,4 @@ This project extracts and cleans Falcon 9 and Falcon Heavy launch data from the 
 ```bash
 pip install -r requirements.txt
 python spacex_launch_scraper.py
+
